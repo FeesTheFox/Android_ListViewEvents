@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ListViewEvents</string>
+    <string name="hello">Hello World</string>
+    <string-array name="names">
+        <item>Иван</item>
+        <item>Марья</item>
+        <item>Петр</item>
+        <item>Антон</item>
+        <item>Даша</item>
+        <item>Борис</item>
+        <item>Костя</item>
+        <item>Игорь</item>
+        <item>Анна</item>
+        <item>Денис</item>
+        <item>Вадим</item>
+        <item>Ольга</item>
+        <item>Сергей</item>
+        <item>Кирилл</item>
+        <item>Артур</item>
+        <item>Полина</item>
+        <item>Николай</item>
+    </string-array>
+</resources>
